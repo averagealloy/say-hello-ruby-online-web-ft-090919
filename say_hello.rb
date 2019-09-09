@@ -1,3 +1,3 @@
 # Build your say_hello method here
-def say_hello(name = "r") 
+def say_hello(name = "R") 
 end
